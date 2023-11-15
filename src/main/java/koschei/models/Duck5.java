@@ -16,4 +16,5 @@ public class Duck5 {
     public String toString() {
         return ", в утке яйцо " + egg6.toString();
     }
+
 }
